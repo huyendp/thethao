@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://s.id/epg01"
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml"
 
 
 #EXTINF:-1 tvg-id="Kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/H28zPSm.jpg", K+CINE HD
