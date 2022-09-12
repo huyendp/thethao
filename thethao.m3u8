@@ -82,15 +82,16 @@ http://live.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1652706118~acl=/
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f3bfadc4cf9e47f49d74b067a7863b1c&key=5db9686ccc26471fd9ecd08775e56907 
 http://live.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1652706118~acl=/*~hmac=6138509dfc2c9be96ed2cdcc6ef34a728031ca0ec79d3052c7ba388d7c92a105
 
-
+#---------------------------------------------------------------------------------------------#
 
 
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/9VzrydJ/onfootball.jpg" group-title="🆅🆃🆅🄲🄰🄱" ,ON SPORTS HD
 https://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://i.ibb.co/9VzrydJ/onfootball.jpg" group-title="🆅🆃🆅🄲🄰🄱" ,ON SPORTS HD VieOn
-https://hni-vtt-001-livecdn-vthn-vnd.vieon.vn/7c262e63b5876e925198a4674814ea9b/1662988999914/vtvcab/live/hd_vtvcab_16/TV_HD/hd_vtvcab_16_1080p/chunks.m3u8
 
+
+
+#------------------------------------------------------------------------------------------------#
 
 #EXTINF:-1 group-title="✯F͙P͙T͙✯P͙L͙A͙Y͙✯" tvg-logo="https://theme.zdassets.com/theme_assets/2445237/88e391e2e1ab45a87fe39ad5730b3eabb65d55b4.png", FPT Play Event 1
 https://livecdn.fptplay.net/schedule/sukien01_vhls.smil/chunklist_b5000000.m3u8
